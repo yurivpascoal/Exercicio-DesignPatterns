@@ -1,3 +1,5 @@
+package Decorator;
+
 public class CalculadoraRecuperacao implements Avaliacao{
     private Avaliacao avaliacaoRec;
     private double notaRecuperacao;

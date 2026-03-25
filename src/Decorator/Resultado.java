@@ -1,3 +1,5 @@
+package Decorator;
+
 public class Resultado {
     private final double n1;
     private final double n2;

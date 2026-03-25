@@ -1,3 +1,5 @@
+package Decorator;
+
 public class MediaBimestral implements Avaliacao{
     private double n1;
     private double n2;
